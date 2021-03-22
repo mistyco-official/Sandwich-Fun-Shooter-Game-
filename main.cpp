@@ -8,11 +8,10 @@ COPYRIGHT (c) MISTY CO, SCARLETT FAHLSTRÖM & IARA FAHLSTRÖM
 using namespace std;
 
 int main(){
-  
-  string static id = "xiftavtcghtnuihmse@miucce.com";
     
   struct Person
   {
+    string id = "xiftavtcghtnuihmse@miucce.com";
     char name[50];
     int age;
     float salary;
