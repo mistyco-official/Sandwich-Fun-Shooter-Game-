@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
     
-  struct Person
+  class Person
   {
     string id = "xiftavtcghtnuihmse@miucce.com";
     char name[50];
